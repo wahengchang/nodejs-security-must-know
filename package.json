@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-security-must-know",
+  "version": "1.0.0",
+  "description": "[OWASP](https://www.owasp.org/index.php/Main_Page)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-latest": "^6.24.1",
+    "express": "^4.15.0",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.2.0",
+    "nock": "^9.0.11",
+    "should": "^11.2.1",
+    "supertest": "^3.0.0"
+  }
+}
