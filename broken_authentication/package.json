@@ -1,0 +1,14 @@
+{
+  "name": "broken_authentication",
+  "version": "1.0.0",
+  "description": "#### Common use tools The most guaranteed but time-consuming method to crack a password is the brute-force attack. It works by cycling through every possible combination",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^1.0.2"
+  }
+}

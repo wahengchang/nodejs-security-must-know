@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "wahengchang@gmail.com",
   "license": "ISC",
   "dependencies": {
     "babel-cli": "^6.24.1",
@@ -19,5 +19,26 @@
     "nock": "^9.0.11",
     "should": "^11.2.1",
     "supertest": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wahengchang/nodejs-security-must-know.git"
+  },
+  "keywords": [
+    "nodejs",
+    "node",
+    "javascript",
+    "server",
+    "express",
+    "react",
+    "isomorphic",
+    "security",
+    "tutorial",
+    "example",
+    "lesson"
+  ],
+  "bugs": {
+    "url": "https://github.com/wahengchang/nodejs-security-must-know/issues"
+  },
+  "homepage": "https://github.com/wahengchang/nodejs-security-must-know#readme"
 }
