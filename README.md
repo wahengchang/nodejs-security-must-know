@@ -4,10 +4,10 @@ This is a note about Node.js security, by reading the amazing book __*Securing N
 The rate of security incidents is on the rise, based on the analysis of 64,199 security incidents and 2,260 breaches in 2015, the Verizon Data Breach Investigations Report published that the top 10 vulnerabilities accounted for 85 percent of these successful exploits. 
 
 ## Content
- - Command Injection : [more](https://github.com/wahengchang/nodejs-security-must-know/command_injection)
- - Broken Auth : [more](https://github.com/wahengchang/nodejs-security-must-know/broken_authentication)
- - Cross-Site Scripting [more](https://github.com/wahengchang/nodejs-security-must-know/cross_site_scripting)
- - Insecure Direct Object References[more](https://github.com/wahengchang/nodejs-security-must-know/direct_object_reference)
+ - Command Injection : [more](https://github.com/wahengchang/nodejs-security-must-know/tree/master/command_injection)
+ - Broken Authentication : [more](https://github.com/wahengchang/nodejs-security-must-know/tree/master/broken_authentication)
+ - Cross-Site Scripting [more](https://github.com/wahengchang/nodejs-security-must-know/tree/master/cross_site_scriptingg)
+ - Insecure Direct Object References[more](https://github.com/wahengchang/nodejs-security-must-know/tree/master/direct_object_reference)
 
 ## Remark
  - hijack

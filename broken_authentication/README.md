@@ -25,6 +25,9 @@ bcrypt ([read more](https://github.com/kelektiv/node.bcrypt.js))
  - take longer time to crak 
 
 #### Securing Session Management
+
+[Example of using Session Management](https://github.com/wahengchang/quick-express-boilerplate/tree/master/advance/sessionManagment)
+
  - hijacking ： an attacker steals the session cookie from an active user session
  - XSS
 
