@@ -1,5 +1,7 @@
 # Nodejs security must know
-This is notes from the book of __*Securing Node Applications*__ .
+This is a note about Node.js security, by reading the amazing book __*Securing Node Applications*__ by @ChetanKarade, which explains couple of common vulnerabilities in very simple way, and provides relevant npm modules as solutions to protect Node.js Web Apps.
+
+The rate of security incidents is on the rise, based on the analysis of 64,199 security incidents and 2,260 breaches in 2015, the Verizon Data Breach Investigations Report published that the top 10 vulnerabilities accounted for 85 percent of these successful exploits. 
 
 ## Content
  - Command Injection : [more](https://github.com/wahengchang/nodejs-security-must-know/command_injection)
